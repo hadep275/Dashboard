@@ -1,4 +1,4 @@
-# Dashboard Project Readme
+# Dashboard Project
 
 Welcome to the Dashboard Project! This dashboard provides a sleek and modern design for managing various aspects of your application. It includes a sidebar navigation menu, user profile information, and sections for displaying financial data and today's key metrics.
 
