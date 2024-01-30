@@ -14,7 +14,7 @@ Welcome to the Dashboard Project! This dashboard provides a sleek and modern des
 ## Demo
 
 Explore the live demo of the dashboard:
-- **Browser Demo Link:** [Dashboard Demo](#) 
+- **Browser Demo Link:** [Dashboard Demo](https://hadep275.github.io/Dashboard/) 
 
 Watch a video demo to get a quick overview:
 - **Video Demo Link:** [Dashboard Video Demo](#) 
