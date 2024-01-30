@@ -17,7 +17,9 @@ Explore the live demo of the dashboard:
 - **Browser Demo Link:** [Dashboard Demo](https://hadep275.github.io/Dashboard/) 
 
 Watch a video demo to get a quick overview:
-- **Video Demo Link:** [Dashboard Video Demo](#) 
+- **Video Demo Link:** [Dashboard Video Demo](https://github.com/hadep275/Dashboard/assets/65734173/2580aa85-6ea2-4984-aefe-e55c92ff0889) 
+
+[screen-capture (13).webm](https://github.com/hadep275/Dashboard/assets/65734173/2580aa85-6ea2-4984-aefe-e55c92ff0889)
 
 
 ## Features
